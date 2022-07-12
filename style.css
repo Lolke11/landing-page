@@ -4,6 +4,11 @@ body
     flex-direction: column;
 }
 
+button
+{
+    color: #3882f6;
+}
+
 .header,
 .hero,
 .footer
@@ -50,4 +55,9 @@ body
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+}
+
+.button-section
+{
+    background-color: #3882f6;
 }
