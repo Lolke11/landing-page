@@ -140,4 +140,19 @@ a
 .button-section
 {
     background-color: #3882f6;
+    margin: 150px 200px;
+    font-size: 28px;
+    display: flex;
+    padding: 50px 150px;
+    justify-content: space-between;
+}
+.button-section .main-text
+{
+    font-weight: 800;
+    color: #f9faf8;
+}
+.button-section .secondary-text
+{
+    font-size: 20px;
+    color: 	lightgrey;
 }
